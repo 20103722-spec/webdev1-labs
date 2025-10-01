@@ -4,7 +4,7 @@ This repository contains my practical lab uploads for the Website Development 1-
 
 ##What is included##
 -Basic HTML structure  
--Working with tags (e.g., <p>,<h2>,<header>) and attributes (e.g., alt, href, src)
+-Working with tags (e.g., '<p>','<h2>','<header>') and attributes (e.g., 'alt', 'href', 'src')
 -Uploading projects to GitHub using the command line
 
 ##Purpose##
