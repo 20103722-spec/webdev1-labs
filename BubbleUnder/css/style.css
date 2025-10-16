@@ -56,7 +56,7 @@ nav ul {
 }
 
 nav ul li {
-  display: inline;
+  padding: 10px 20px;
 }
 
 nav ul li a {
@@ -68,14 +68,18 @@ nav ul li a {
 }
 
 nav ul li a:link, nav ul li a:visited {
-  background-color: dodgerblue;
   color: white;
   text-decoration: none;
-  }
+}
   
-nav ul li a:hover, nav ul li a:active {
-    background-color: lightskyblue;
-  }
+nav ul li a:hover  {
+  text-decoration: underline;
+}
+
+nav ul li a:active {
+    color: navy;
+    text-decoration: none;
+}
 
 p a:link, a:visited {
    color: blue;
@@ -100,3 +104,22 @@ p a:hover {
    font-family: Georgia, Times, serif;
    letter-spacing: 0.05em;
  }
+
+ img.feature {
+  float:right;
+  margin-left: 1%;
+}
+
+#content {
+	display: flex;
+}
+
+nav {
+  background-color: dodgerblue;
+  flex: 1;
+}
+
+main {
+  flex:5;
+  padding-left:1em;
+}
