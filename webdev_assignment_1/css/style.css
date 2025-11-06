@@ -11,6 +11,12 @@ body {
     line-height: 1.5;
     min-height: 100vh; /* viewport height */
 }
+body.hobbies_page .main {
+    background-image: url('../images/hobbies_bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
 
 /* header (learned that relative does not conflict with flex) */
 .header {
@@ -22,7 +28,10 @@ body {
     position: relative;
     justify-content: space-between;
 }
-
+/* important id+comb. */
+#main_title + section.about_me {
+    padding-top: 20px;
+}
 .logo {
     font-weight: bold;
 }
@@ -108,3 +117,44 @@ body {
 .footer a:hover {
     text-decoration: underline;
 }
+/* table for movies.html */
+.movies_table {
+    width: 80%;
+    margin: 30px auto;
+    border-collapse: collapse;
+    background-color: #fff;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.movies_table caption {
+    font-weight: bold;
+    margin-bottom: 10px;
+    font-size: 1.2em;
+}
+
+.movies_table th, .movies_table td {
+    border: 1px solid #999;
+    padding: 10px;
+    text-align: center;
+}
+
+.movies_table th {
+    background-color: #2C0703;
+    color: white;
+}
+
+.movies_table tr:nth-of-type(odd) {
+    background-color: #f9f2ef;
+}
+
+.movies_table tr:nth-of-type(even) {
+    background-color: #f1d8cf;
+}
+
+.movies_table tr:hover {
+    background-color: #e2b6a1;
+    cursor: pointer;
+}
+.block1 ul li {
+   list-style-type: none;
+} 

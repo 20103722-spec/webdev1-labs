@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\movies.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:movies.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\css\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\style.css||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\hobbies.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:hobbies.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\index.html||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "movies.html",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\movies.html",
+              "RelativeDocumentMoniker": "movies.html",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\movies.html",
+              "RelativeToolTip": "movies.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-11-01T16:10:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\css\\style.css",
+              "RelativeDocumentMoniker": "css\\style.css",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\css\\style.css",
+              "RelativeToolTip": "css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-29T23:54:07.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "hobbies.html",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\hobbies.html",
+              "RelativeDocumentMoniker": "hobbies.html",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\hobbies.html",
+              "RelativeToolTip": "hobbies.html",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswD0AAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-29T23:53:54.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\Hp\\OneDrive - South East Technological University (Waterford Campus)\\Pictures\\Saved Games\\Desktop\\webdev_assignment_1\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-10-29T23:53:26.293Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
